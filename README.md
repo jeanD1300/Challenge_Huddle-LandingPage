@@ -18,7 +18,7 @@ This is a solution to the [Huddle landing page with single introductory section 
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [My live site URL here](https://guileless-alpaca-c024cb.netlify.app/)
 
 ## Author
 
