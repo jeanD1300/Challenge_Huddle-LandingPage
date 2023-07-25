@@ -18,10 +18,10 @@
 
 /* Header */
 .logo {
-  height: 20%;
+  height: 100px;
 }
 .logo img {
-  margin: 35px 0px 0 40px;
+  margin: 35px 0px 0 150px;
   height: 40%;
 }
 
